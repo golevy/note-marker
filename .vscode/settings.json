@@ -8,5 +8,6 @@
   "editor.wordWrap": "on",
   "markdownlint.config": {
     "MD041": false
-  }
+  },
+  "cSpell.words": ["mdxeditor"]
 }
