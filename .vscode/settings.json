@@ -9,5 +9,8 @@
   "markdownlint.config": {
     "MD041": false
   },
-  "cSpell.words": ["mdxeditor"]
+  "cSpell.words": ["commitlint", "mdxeditor", "typecheck"],
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
 }
