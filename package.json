@@ -37,6 +37,7 @@
     "@electron-toolkit/utils": "^3.0.0",
     "@mdxeditor/editor": "^3.17.0",
     "@tailwindcss/typography": "^0.5.15",
+    "@types/lodash": "^4.17.13",
     "autoprefixer": "^10.4.20",
     "clsx": "^2.1.1",
     "commitizen": "^4.3.1",
