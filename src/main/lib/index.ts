@@ -39,3 +39,4 @@ export const readNote: ReadNote = async (filename) => {
     encoding: FILE_ENCODING
   })
 }
+
